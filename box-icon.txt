@@ -1,0 +1,9 @@
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+ class='bx bxl-facebook'
+
+class='bx bxl-instagram'
+
+ class='bx bxl-whatsapp'
+
+ class='bx bxl-twitter'
